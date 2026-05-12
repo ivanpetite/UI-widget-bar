@@ -14,7 +14,7 @@ Feature 2: Widget bar.
 Long press on a widget located in the middle sidebar area will let you add, remove a function. Clicking outside the widget bar will confirm the modifications.
 
 Widget list (to be improved): 
-- Clock -based on your system.
+- Clock -based on your system. --> click to switch 12h mode to 24h mode.
 - Light / Dark theme switch.
 - Fake notification status.
 - Qwick Sharing button.
